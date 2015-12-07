@@ -4,19 +4,19 @@ session_start();
 /**
  * client_id приложения
  */
-define('CLIENT_ID', 'app.00000000000000.00000000');
+define('CLIENT_ID', 'local.565ec55fb6b3c3.75244299');
 /**
  * client_secret приложения
  */
-define('CLIENT_SECRET', '00000000000000000000000000000000');
+define('CLIENT_SECRET', '235f154afe7a8666ae10221e2a7a7d73');
 /**
  * относительный путь приложения на сервере
  */
-define('PATH', '/your_path/');
+define('PATH', '/formupload/');
 /**
  * полный адрес к приложения
  */
-define('REDIRECT_URI', 'http://your.host'.PATH);
+define('REDIRECT_URI', 'http://oookbrenessans.bitrix24.ru'.PATH);
 /**
  * scope приложения
  */
